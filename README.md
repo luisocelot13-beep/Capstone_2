@@ -1,2 +1,17 @@
-EmporiUm is a growing student bookstore chain that also sells tech gear, art supplies, and other products both in-store and online.Sales are segmented by region,with each region including multiple sales territories.
-my ''''''''' has asked me for some analysis comparing sales in the two territories i was assigned that are Maine and Maryland in northeast region.
+EmproiUm Sales Territory Analysis - Capstone Project
+This project analyzes sales performance for the Maine and Maryland territories within the Northeast region for EmporiUm, a growing student bookstore chain that also sells technology products, art supplies, stationery, textbooks, and other merchandise.
+
+This analysis explores:
+- Monthly sales revenue trends
+- Store performance rankings
+- Customer Purchasing behavior
+- Product category performance
+- Transaction counts by category
+- Revenue comparisons between territories
+
+Tools and Libraries Used:
+- Python
+- pandas
+- matplotlib
+- jupyter notebook
+- gitHub
