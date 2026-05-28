@@ -1,4 +1,5 @@
 EmproiUm Sales Territory Analysis - Capstone Project
+
 This project analyzes sales performance for the Maine and Maryland territories within the Northeast region for EmporiUm, a growing student bookstore chain that also sells technology products, art supplies, stationery, textbooks, and other merchandise.
 
 This analysis explores:
